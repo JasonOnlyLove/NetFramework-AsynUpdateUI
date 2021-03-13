@@ -1,0 +1,17 @@
+D:\program\WinForm\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.csprojResolveAssemblyReference.cache
+D:\program\WinForm\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.Form1.resources
+D:\program\WinForm\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.Properties.Resources.resources
+D:\program\WinForm\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.csproj.GenerateResource.Cache
+D:\program\WinForm\异步刷新进度条1\异步刷新进度条1\bin\Debug\异步刷新进度条1.exe
+D:\program\WinForm\异步刷新进度条1\异步刷新进度条1\bin\Debug\异步刷新进度条1.pdb
+D:\program\WinForm\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.exe
+D:\program\WinForm\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.pdb
+C:\Users\Jason\Desktop\异步刷新进度条1\异步刷新进度条1\bin\Debug\异步刷新进度条1.exe
+C:\Users\Jason\Desktop\异步刷新进度条1\异步刷新进度条1\bin\Debug\异步刷新进度条1.pdb
+C:\Users\Jason\Desktop\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.csprojAssemblyReference.cache
+C:\Users\Jason\Desktop\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.Form1.resources
+C:\Users\Jason\Desktop\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.Properties.Resources.resources
+C:\Users\Jason\Desktop\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.csproj.GenerateResource.cache
+C:\Users\Jason\Desktop\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.exe
+C:\Users\Jason\Desktop\异步刷新进度条1\异步刷新进度条1\obj\Debug\异步刷新进度条1.pdb
