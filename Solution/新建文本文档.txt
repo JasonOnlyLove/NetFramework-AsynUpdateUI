@@ -1,0 +1,7 @@
+create table log(
+
+    content TEXT,
+
+    logtime TIMESTAMP default (datetime('now', 'localtime'))
+
+    )
